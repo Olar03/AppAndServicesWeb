@@ -17,6 +17,8 @@ namespace RentACar.Data
         public DbSet<Reserve> Reserves { get; set; }
         public DbSet<Rental> Rentals { get; set; }
         public DbSet<RentalType> RentalTypes { get; set; }
+        public DbSet<Licence> Licences { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -26,6 +28,7 @@ namespace RentACar.Data
             modelBuilder.Entity<Category>().HasIndex(c => c.Name).IsUnique();
             modelBuilder.Entity<Vehicle>().HasIndex(v => v.Plaque).IsUnique();
             modelBuilder.Entity<VehicleCategory>().HasIndex("VehicleId", "CategoryId").IsUnique();
+            modelBuilder.Entity<Licence>().HasIndex(l => l.Name).IsUnique();
 
         }
     }

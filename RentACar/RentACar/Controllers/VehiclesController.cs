@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RentACar.Data;
 using RentACar.Data.Entities;
@@ -7,6 +8,7 @@ using RentACar.Models;
 
 namespace RentACar.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class VehiclesController : Controller
     {
         private readonly DataContext _context;

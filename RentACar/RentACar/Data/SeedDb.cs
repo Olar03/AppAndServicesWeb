@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RentACar.Data.Entities;
+using RentACar.Enums;
 using RentACar.Helpers;
-using Shooping.Enums;
 
 
 namespace RentACar.Data
@@ -24,10 +24,29 @@ namespace RentACar.Data
             await CheckRolesAsync();
             await CheckCategoriesAsync();
             await CheckVehiclesAsync();
-            await CheckUserAsync("1035442878", "Luis", "Higuita", "prueba@prueba.com",  "300434061", "Cr54-32", UserType.Admin);
-            await CheckUserAsync("3002340561", "Eduardo", "Espitia", "user@prueba.com", "3002340561", "Cr343-212", UserType.User);
+            await CheckUserAsync("1035442878", "Luis", "Higuita", "prueba@yopmail.com",  "300434061", "Cr54-32","Admin.jpg" , UserType.Admin);
+            await CheckUserAsync("3002340561", "Eduardo", "Espitia", "user@yopmail.com", "3002340561", "Cr343-212", "User.jpg", UserType.User);
+            await CheckLicencesAsync();
 
         }
+
+        private async Task CheckLicencesAsync()
+        {
+            if (!_context.Categories.Any())
+            {
+                _context.Licences.Add(new Licence { Name = "Licencia Clase A1" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase A2" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase B1" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase B2" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase B3" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase C1" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase C2" });
+                _context.Licences.Add(new Licence { Name = "Licencia Clase C3" });
+                await _context.SaveChangesAsync();
+
+            }
+        }
+
 
         private async Task CheckRolesAsync()
         {
@@ -42,29 +61,33 @@ namespace RentACar.Data
             string email,
             string phone,
             string address,
+            string image,
             UserType userType)
 
         {
             User user = await _userHelper.GetUserAsync(email);
             if (user == null)
             {
+                Guid imageId = await _blobHelper.UploadBlobAsync($"{Environment.CurrentDirectory}\\wwwroot\\images\\users\\{image}", "users");
                 user = new User
                 {
                     UserName = email,
                     Email = email,
                     FirstName = firstName,
                     LastName = lastName,
-                    DocumentType = document,
                     Document = document,
                     Phone = phone,
-                    TypeLicence = "A1",
-                    Licence = "1232",
                     Address = address,
+                    Licence = _context.Licences.FirstOrDefault(),
                     UserType = userType,
+                    ImageId = imageId,
                 };
 
                 await _userHelper.AddUserAsync(user, "123456");
                 await _userHelper.AddUserToRoleAsync(user, userType.ToString());
+
+                string token = await _userHelper.GenerateEmailConfirmationTokenAsync(user);
+                await _userHelper.ConfirmEmailAsync(user, token);
             }
 
             return user;

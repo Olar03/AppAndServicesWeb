@@ -25,8 +25,10 @@ namespace RentACar.Controllers
                 .Include(v => v.VehicleCategories)
                 .OrderBy(v => v.Plaque)
                 .ToListAsync();
+
             List<VehiclesHomeViewModel> vehiclesHome = new() { new VehiclesHomeViewModel() };
             int i = 1;
+
             foreach (Vehicle? vehicle in vehicles)
             {
                 if (i == 1)
@@ -64,5 +66,12 @@ namespace RentACar.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        [Route("error/404")]
+        public IActionResult Error404()
+        {
+            return View();
+        }
+
     }
 }

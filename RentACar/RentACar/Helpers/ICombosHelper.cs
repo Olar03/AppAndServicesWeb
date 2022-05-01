@@ -11,6 +11,7 @@ namespace RentACar.Helpers
         Task<IEnumerable<SelectListItem>> GetComboCategoriesAsync(IEnumerable<Category> filter);
 
 
+        Task<IEnumerable<SelectListItem>> GetComboLicencesAsync();
 
 
     }

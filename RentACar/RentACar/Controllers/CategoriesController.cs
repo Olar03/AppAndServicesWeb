@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RentACar.Data;
 using RentACar.Data.Entities;
 
 namespace RentACar.Controllers
 {
+
+    [Authorize(Roles = "Admin")]
     public class CategoriesController : Controller
     {
         private readonly DataContext _context;

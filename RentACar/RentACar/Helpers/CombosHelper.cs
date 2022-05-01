@@ -57,5 +57,18 @@ namespace RentACar.Helpers
             return list;
         }
 
+        public async Task<IEnumerable<SelectListItem>> GetComboLicencesAsync()
+        {
+            List<SelectListItem> list = await _context.Licences.Select(l => new SelectListItem
+            {
+                Text = l.Name,
+                Value = l.Id.ToString()
+            })
+                .OrderBy(l => l.Text)
+                .ToListAsync();
+
+            list.Insert(0, new SelectListItem { Text = "[Seleccione la categoría de su licencia...", Value = "0" });
+            return list;
+        }
     }
 }
