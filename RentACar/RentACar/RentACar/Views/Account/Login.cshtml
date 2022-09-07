@@ -1,0 +1,39 @@
+﻿@model RentACar.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+<flash dismissable="true" />
+
+<div id="view-all">
+    @await Html.PartialAsync("_Login", Model)
+</div>
+
+<!--modal placeholder. Also you can place this modal form in the _Layout.cshtml-->
+<div class="modal fade" tabindex="-1" role="dialog" data-bs-backdrop="static" id="form-modal">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-primary">
+                <h5 class="modal-title text-white"></h5>
+                <button type="button" class="btn-close text-white" data-bs-dismiss="modal" aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body">
+            </div>
+        </div>
+    </div>
+</div>
+
+<partial name="_DeleteDialog" />
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+
+<script src="~/js/showmodal.js"></script>
+
+<script>
+    sc_deleteDialog.openModal('deleteItem', true, 'btnYesDelete', '/Users/Delete/', false);
+</script>
+}
