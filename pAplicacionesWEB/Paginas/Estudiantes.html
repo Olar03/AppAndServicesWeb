@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PRESTAMO DE LIBROS</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+    <!-- Estilos para el datatable -->
+    <link href="Estilos/dataTables.min.css" rel="stylesheet" />
+    <link href="Estilos/dataTables.bootstrap4.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title text-lg-center">ESTUDIANTES</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="frmRegistroEstudiantes">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtDocumento">DOCUMENTO DEL ESTUDIANTE</label>
+                                            <input type="text" class="form-control" id="txtDocumento" placeholder="Documento Del Estudiante">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtNombre">NOMBRE DEL ESTUDIANTE</label>
+                                            <input type="text" class="form-control" id="txtNombre" placeholder="Nombre Del Estudiante">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtApellidos">APELLIDOS DEL ESTUDIANTE</label>
+                                            <input type="text" class="form-control" id="txtApellidos" placeholder="Apellidos Del Estudiante">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtTelefono">TELEFONO DEL ESTUDIANTE</label>
+                                            <input type="text" class="form-control" id="txtTelefono" placeholder="Telefono Del Estudiante">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtEmail">EMAIL DEL ESTUDIANTE</label>
+                                            <input type="text" class="form-control" id="txtEmail" placeholder="Email Del Estudiante">
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                        </form>
+
+                        <div class="row">
+                            <div class="col-md-3">
+                                <button type="button" id="btnRegistrar" class="btn-block btn-lg btn-primary">Insertar</button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div id="dvTabla">
+                                <table id="tblEstudiantes" class="display" style="width:100%">
+                                    <thead>
+                                        <tr>
+                                            <th></th>
+                                            <th></th>
+                                            <th></th>
+                                            <th></th>
+                                            <th></th>
+
+
+                                        </tr>
+                                    </thead>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="card-footer">
+                            <div id="dvMensaje" class=""></div>
+                        </div>
+
+                        <div class="card-header">
+                            <h3 class="card-title">LIBROS</h3>
+                        </div>
+                        <form id="frmRegistroPrestamos">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <label for="cboEstudiante">ESTUDIANTE</label>
+                                        <select id="cboEstudiante" class="form-control select2" style="width: 100%;">
+                                            <option value="0">Seleccione el Estudiante</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtNombreLibro">NOMBRE LIBRO</label>
+                                            <input type="text" class="form-control" id="txtNombreLibro" placeholder="Codigo Del Libro">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtFechaPrestamo">FECHA DE PRESTAMO</label>
+                                            <input type="date" class="form-control" id="txtFechaPrestamo" placeholder="Fecha Del Prestamo">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtFechaDevolucion">FECHA DEVOLUCION</label>
+                                            <input type="date" class="form-control" id="txtFechaDevolucion" placeholder="Fecha Devolucion">
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <button type="button" id="btnGuardar" class="btn-block btn-lg btn-primary">Insertar</button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="dvTabla">
+                            <table id="tblPrestamos" class="display" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th></th>
+                                        <th></th>
+                                        <th></th>
+
+
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.card-body -->
+                <div class="card-footer">
+                    <div id="dvMensaje" class=""></div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <script src="../Comunes/Combos.js"></script>
+    <script src="../Comunes/Grids.js"></script>
+    <script src="Scripts/Estudiante.js"></script>
+    <script src="Scripts/Libros.js"></script>
+</body>
+</html>
