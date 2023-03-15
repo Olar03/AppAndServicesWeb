@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBCursosModelStoreContainer" CdmEntityContainer="DBCursosEntities">
+    <EntitySetMapping Name="CursosVacacionales">
+      <EntityTypeMapping TypeName="DBCursosModel.CursosVacacionales">
+        <MappingFragment StoreEntitySet="CursosVacacionales">
+          <ScalarProperty Name="Documento" ColumnName="Documento" />
+          <ScalarProperty Name="NombreDocente" ColumnName="NombreDocente" />
+          <ScalarProperty Name="CantidadCursos" ColumnName="CantidadCursos" />
+          <ScalarProperty Name="PorcentajeDescuento" ColumnName="PorcentajeDescuento" />
+          <ScalarProperty Name="ValorPagoAntesDcto" ColumnName="ValorPagoAntesDcto" />
+          <ScalarProperty Name="ValorDescuento" ColumnName="ValorDescuento" />
+          <ScalarProperty Name="TotalPagar" ColumnName="TotalPagar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

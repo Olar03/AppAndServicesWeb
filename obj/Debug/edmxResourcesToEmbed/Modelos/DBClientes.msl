@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBClientesModelStoreContainer" CdmEntityContainer="DBClientesEntities">
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="DBClientesModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="Documento" ColumnName="Documento" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+          <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

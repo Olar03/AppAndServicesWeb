@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Registro cliente</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link href="Estilos/all.min.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link href="Estilos/adminlte.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-12">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">REGISTRO DE CLIENTE</h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <!-- form start -->
+                        <form id="frmRegistraCliente">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtDocumento">Documento</label>
+                                            <input type="text" class="form-control" id="txtDocumento" placeholder="Documento">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtNombre">Nombre</label>
+                                            <input type="text" class="form-control" id="txtNombre" placeholder="Nombre">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtPrimerApellido">Primer Apellido</label>
+                                            <input type="text" class="form-control" id="txtPrimerApellido" placeholder="Primer Apellido">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtSegundoApellido">Segundo Apellido</label>
+                                            <input type="text" class="form-control" id="txtSegundoApellido" placeholder="Segundo Apellido">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtTelefono">Teléfono</label>
+                                            <input type="tel" class="form-control" id="txtTelefono" placeholder="Teléfono del cliente">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtDireccion">Dirección</label>
+                                            <input type="text" class="form-control" id="txtDireccion" placeholder="Dirección del teléfono">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="txtEmail">Correo electrónico</label>
+                                            <input type="text" class="form-control" id="txtEmail" placeholder="Email del cliente">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtFechaNacimiento">Fecha Nacimiento</label>
+                                            <input type="date" class="form-control" id="txtFechaNacimiento" placeholder="Teléfono del cliente">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtUsuario">Usuario</label>
+                                            <input type="text" class="form-control" id="txtUsuario" placeholder="Usuario">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtClave">Clave</label>
+                                            <input type="password" class="form-control" id="txtClave" placeholder="Clave">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label for="txtConfirmaClave">Confirmar clave</label>
+                                            <input type="password" class="form-control" id="txtConfirmaClave" placeholder="Confirme la clave">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <button id="bntInsertar" class="btn-block btn-lg btn-primary">INSERTAR</button>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <button id="btnActualizar" class="btn-block btn-lg btn-primary">ACTUALIZAR</button>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <button id="btnEliminar" class="btn-block btn-lg btn-primary">ELIMINAR</button>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <button id="btnConsultar" class="btn-block btn-lg btn-primary">CONSULTAR</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-footer">
+                                <div id="dvMensaje" class=""></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="../Scripts/jquery.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/RegistroCliente.js"></script>
+    <!-- /.card -->
+</body>
+</html>

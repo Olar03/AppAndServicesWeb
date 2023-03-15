@@ -1,0 +1,236 @@
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\pApp_Serv_WEB.dll.config
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\pApp_Serv_WEB.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\pApp_Serv_WEB.pdb
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\csc.exe
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\csc.exe.config
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\csc.rsp
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\csi.exe
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\csi.exe.config
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\csi.rsp
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.AppContext.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Console.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.IO.Compression.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Net.Http.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Net.Sockets.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.ValueTuple.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.XPath.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\vbc.exe
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\vbc.exe.config
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\vbc.rsp
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\VBCSCompiler.exe
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Antlr3.Runtime.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Newtonsoft.Json.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\System.Web.Optimization.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\WebGrease.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\System.Web.Optimization.xml
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Newtonsoft.Json.xml
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Antlr3.Runtime.pdb
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\es\System.Web.Optimization.resources.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.AssemblyReference.cache
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.CoreCompileInputs.cache
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.CopyComplete
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.dll
+C:\ITM\APP_Serv_WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.pdb
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\pApp_Serv_WEB.dll.config
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\pApp_Serv_WEB.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\pApp_Serv_WEB.pdb
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\csc.exe
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\csc.exe.config
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\csc.rsp
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\csi.exe
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\csi.exe.config
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\csi.rsp
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.AppContext.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Console.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.IO.Compression.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.IO.FileSystem.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Net.Http.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Net.Sockets.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.ValueTuple.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.XPath.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\vbc.exe
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\vbc.exe.config
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\vbc.rsp
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\VBCSCompiler.exe
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Antlr3.Runtime.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Newtonsoft.Json.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\System.Web.Optimization.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\WebGrease.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\System.Web.Optimization.xml
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Newtonsoft.Json.xml
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Antlr3.Runtime.pdb
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\es\System.Web.Optimization.resources.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.AssemblyReference.cache
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.CoreCompileInputs.cache
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.CopyComplete
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.pdb
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\EntityFramework.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\EntityFramework.SqlServer.dll
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\EntityFramework.xml
+D:\Trabajos\ITM\2023-1\App y Serv WEB\pApp_Serv_WEB\bin\EntityFramework.SqlServer.xml
+C:\ITM\pApp_Serv_WEB\bin\pApp_Serv_WEB.dll.config
+C:\ITM\pApp_Serv_WEB\bin\pApp_Serv_WEB.dll
+C:\ITM\pApp_Serv_WEB\bin\pApp_Serv_WEB.pdb
+C:\ITM\pApp_Serv_WEB\bin\roslyn\csc.exe
+C:\ITM\pApp_Serv_WEB\bin\roslyn\csc.exe.config
+C:\ITM\pApp_Serv_WEB\bin\roslyn\csc.rsp
+C:\ITM\pApp_Serv_WEB\bin\roslyn\csi.exe
+C:\ITM\pApp_Serv_WEB\bin\roslyn\csi.exe.config
+C:\ITM\pApp_Serv_WEB\bin\roslyn\csi.rsp
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ITM\pApp_Serv_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.AppContext.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Console.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.IO.Compression.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Net.Http.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Net.Sockets.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.ValueTuple.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Xml.XPath.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ITM\pApp_Serv_WEB\bin\roslyn\vbc.exe
+C:\ITM\pApp_Serv_WEB\bin\roslyn\vbc.exe.config
+C:\ITM\pApp_Serv_WEB\bin\roslyn\vbc.rsp
+C:\ITM\pApp_Serv_WEB\bin\roslyn\VBCSCompiler.exe
+C:\ITM\pApp_Serv_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\ITM\pApp_Serv_WEB\bin\Antlr3.Runtime.dll
+C:\ITM\pApp_Serv_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\ITM\pApp_Serv_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\ITM\pApp_Serv_WEB\bin\EntityFramework.dll
+C:\ITM\pApp_Serv_WEB\bin\EntityFramework.SqlServer.dll
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\ITM\pApp_Serv_WEB\bin\Newtonsoft.Json.dll
+C:\ITM\pApp_Serv_WEB\bin\System.Web.Optimization.dll
+C:\ITM\pApp_Serv_WEB\bin\WebGrease.dll
+C:\ITM\pApp_Serv_WEB\bin\EntityFramework.xml
+C:\ITM\pApp_Serv_WEB\bin\EntityFramework.SqlServer.xml
+C:\ITM\pApp_Serv_WEB\bin\System.Web.Optimization.xml
+C:\ITM\pApp_Serv_WEB\bin\Newtonsoft.Json.xml
+C:\ITM\pApp_Serv_WEB\bin\Antlr3.Runtime.pdb
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\ITM\pApp_Serv_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ITM\pApp_Serv_WEB\bin\es\System.Web.Optimization.resources.dll
+C:\ITM\pApp_Serv_WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\ITM\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.AssemblyReference.cache
+C:\ITM\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.CoreCompileInputs.cache
+C:\ITM\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.csproj.CopyComplete
+C:\ITM\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.dll
+C:\ITM\pApp_Serv_WEB\obj\Debug\pApp_Serv_WEB.pdb
